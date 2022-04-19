@@ -2,7 +2,7 @@
 
 ### The Why 
 
-**StarAdmin** will be the name for the government in [Star City](https://github.com/WebDevBooster/star-city-manifesto). So, when referring to Star City's government we'll **NEVER use the word "government"** and always use the word *StarAdmin* instead. 
+**StarAdmin** will be the name for the government of [Star City](https://github.com/WebDevBooster/star-city-manifesto). So, when referring to Star City's government we'll **NEVER use the word "government"** and always use the word *StarAdmin* instead. 
 
 Why do we have to replace the word "government" with a different word when referring to **Star City's government**?
 
